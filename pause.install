@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 echo Installing "pause" command from JBM's Command Line Tools...
 cd /bin/
 curl -sSoL https://raw.githubusercontent.com/jbmscommandlinetools/pause/master/pause
