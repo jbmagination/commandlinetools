@@ -45,7 +45,7 @@ wget:
 Script (recommended):
 
 ```shell
-> chmod +x pause.installation
-> ./pause.installation
+> chmod +x pause.install
+> ./pause.install
 ```
 
