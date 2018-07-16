@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+echo Installing "pause" command from JBM's Command Line Tools...
+cd /bin/
+curl -sSoL https://raw.githubusercontent.com/jbmscommandlinetools/pause/master/pause
+pause Installation successful. || read -s -n 1 -p "Installation failed."
